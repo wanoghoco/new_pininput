@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pinput/pinput.dart';
+import 'package:new_pinput/pinput.dart';
 
 class Filled extends StatefulWidget {
   const Filled({Key? key}) : super(key: key);

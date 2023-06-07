@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:pinput/pinput.dart';
+import 'package:new_pinput/pinput.dart';
 
 void main() {
   runApp(

@@ -23,7 +23,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  pinput:
+  new_pinput:
     path: ../
   google_fonts: ^4.0.4
   cupertino_icons: ^1.0.5
