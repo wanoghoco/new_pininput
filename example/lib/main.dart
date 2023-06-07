@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:new_pinput/pinput.dart';
+import 'package:new_pinput/new_pinput.dart';
 
 void main() {
   runApp(
