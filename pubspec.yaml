@@ -1,6 +1,6 @@
 name: new_pinput
-version: 2.2.31
-description: Pin code input (OTP) text field, iOS SMS autofill, Android SMS autofill One Time Code, Password, Passcode, Captcha, Security, Coupon, Wowcher, 2FA, Two step verification
+version: 1.0.0
+description: Pin code input (OTP) text field
 homepage: https://github.com/wanoghoco/new_pininput
 repository: https://github.com/wanoghoco/new_pininput
 issue_tracker: https://github.com/wanoghoco/new_pininput/issues

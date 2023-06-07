@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:new_pinput/pinput.dart';
+import 'package:new_pinput/new_pinput.dart';
 
 class AlienKeyboard extends StatelessWidget {
   final TextEditingController controller;
